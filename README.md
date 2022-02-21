@@ -1,11 +1,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ErickBraganca" alt="ErickBraganca" /></p>
 
 <h1 align = "justify">🚩  Hi, I am Erick Bragança</h1>
-<h3 align = "justify">🛰  I am a Senior Electrical Designer, specialist in engineering projects and 3D modeling.</h3>
+<h3 align = "justify">🛰  I am a Senior Designer, specialist in engineering projects and 3D modeling.</h3>
 
 
 ⛰ At this moment, i'm studying to strengthen my base in javascript and in the technologies of its ecosystem.
-<h4 align = "justify">🚧  I am learning programming to develop software for my area of expertise.</h4>
+My goal is to develop software for my area of expertise and join programming, CAD Design and 3D Modeling.
 
 <a href="https://www.linkedin.com/in/erickbraganca" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/erickbraganca"/>

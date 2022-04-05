@@ -4,7 +4,7 @@
 <h3 align = "justify">🛰  I am a Senior Designer, specialist in engineering projects and 3D modeling.</h3>
 
 
-⛰ At this moment, i'm studying to strengthen my base in javascript and in the technologies of its ecosystem.
+⛰ At this moment, i'm studying to strengthen my base in JavaScript and in the technologies of its ecosystem.
 My goal is to develop software for my area of expertise and join programming, CAD Design and 3D Modeling.
 
 <a href="https://www.linkedin.com/in/erickbraganca" alt="Linkedin">

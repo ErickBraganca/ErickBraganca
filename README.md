@@ -19,8 +19,6 @@ My goal is to develop software for my area of expertise and join programming, CA
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/ErickBraganca/javascript-training-projects/blob/b5e15f2976894b6e54bd9ab759972d788447b8b9/2-Intermediate-Level/2-Some-Time-Server/favicon.svg" />
-</div><br>
 
 ## 🛠 Tools
 <div style="display: inline_block">
